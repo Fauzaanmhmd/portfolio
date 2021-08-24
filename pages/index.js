@@ -10,10 +10,10 @@ const Home = () => {
           <Navbar />
         </header>
         <main>
-          <section class="home">
+          <section className="home">
             <h2>Hello! My Name Is</h2>
-            <h1 class="home__name">
-              Fauzan <span class="home__name--last">Muhammad</span>
+            <h1 className="home__name">
+              Fauzan <span className="home__name--last">Muhammad</span>
             </h1>
             <h2>
               Web Developer & Programmer

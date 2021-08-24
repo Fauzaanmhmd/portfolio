@@ -5,18 +5,18 @@ const Footer = props => {
 
     return (
         <footer>
-            <div class="social-icons">
+            <div className="social-icons">
                 <a href="#!">
-                    <i class="fab fa-twitter fa-2x"></i>
+                    <i className="fab fa-twitter fa-2x"></i>
                 </a>
                 <a href="https://www.instagram.com/fauzaan.mhmd/">
-                    <i class="fab fa-instagram fa-2x"></i>
+                    <i className="fab fa-instagram fa-2x"></i>
                 </a>
                 <a href="https://www.linkedin.com/in/fauzan-muhammad-336455194/">
-                    <i class="fab fa-linkedin fa-2x"></i>
+                    <i className="fab fa-linkedin fa-2x"></i>
                 </a>
                 <a href="#!">
-                    <i class="fab fa-github fa-2x"></i>
+                    <i className="fab fa-github fa-2x"></i>
                 </a>
             </div>
 
