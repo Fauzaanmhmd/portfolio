@@ -25,6 +25,7 @@ const Navbar = props => {
                         <Link className="menu-nav__link" href="./Projects">
                             <p className="menu-nav__link">My Projects</p>
                         </Link>
+
                     </li>
                     <li className="menu-nav__item">
                         <Link href="./ContactMe" className="menu-nav__link">
