@@ -11,7 +11,7 @@ const AboutMe = () => {
                 <div className="about__bio-image">
                     <div className="about__bio">
                         <h2 className="text-secondary">BIO</h2>
-                        <p>I'am learned programming language for the first time in collage. My first programming language is C++. When i entered on the final semester, I increased my learning about programming. I created an e-commerce web application using the javascript language with the next js framework and the react js library.</p>
+                        <p>{"I'am learned programming language for the first time in collage. My first programming language is C++. When i entered on the final semester, I increased my learning about programming. I created an e-commerce web application using the javascript language with the next js framework and the react js library."}</p>
                     </div>
                 </div>
 

@@ -13,30 +13,22 @@ const Navbar = props => {
                 <ul className="menu-nav">
                     <li className="menu-nav__item active">
                         <Link href="/">
-                            <a className="menu-nav__link">
-                                Home
-                            </a>
+                            <p className="menu-nav__link">Home</p>
                         </Link>
                     </li>
                     <li className="menu-nav__item">
-                        <Link href="./AboutMe">
-                            <a href="about.html" className="menu-nav__link">
-                                About Me
-                            </a>
+                        <Link className="menu-nav__link" href="./AboutMe">
+                            <p className="menu-nav__link">About Me</p>
                         </Link>
                     </li>
                     <li className="menu-nav__item">
-                        <Link href="./Projects">
-                            <a className="menu-nav__link">
-                                My Projects
-                            </a>
+                        <Link className="menu-nav__link" href="./Projects">
+                            <p className="menu-nav__link">My Projects</p>
                         </Link>
                     </li>
                     <li className="menu-nav__item">
                         <Link href="./ContactMe" className="menu-nav__link">
-                            <a className="menu-nav__link">
-                                Contact Me
-                            </a>
+                            <p className="menu-nav__link">Contact Me</p>
                         </Link>
                     </li>
                 </ul>
